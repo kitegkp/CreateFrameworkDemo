@@ -1,0 +1,6 @@
+framework module FrameTest001 {
+  umbrella header "FrameTest001.h"
+
+  export *
+  module * { export * }
+}
